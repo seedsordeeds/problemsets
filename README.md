@@ -32,7 +32,7 @@ To test, use the following values:
 ```
 The program should return ```998``` and ```98976``` respectively.
 
-# Solution 1: 
+# Solutions for Problem 1: 
 
 ```
 def dist(x1, x2, y1, y2):
@@ -50,7 +50,7 @@ def distance(x1, x2, y1, y2):
 	return distance
 ```
 
-# Solution 2: 
+# Solutions for Problem 2: 
 
 ```
 def ndiv(n,m):
