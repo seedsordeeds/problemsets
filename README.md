@@ -15,7 +15,7 @@ The program should return ```6.324555320336759```.
 
 # [Intermediate/Hard] Problem 2: N-Divisible Digits
 
-The task is to write a program that takes two integers, N and M, and then to find the largest integer composed of N-digits that is evenly divisible by M. 
+The task is to write a program that asks for two integers, N and M, and then finds the largest integer composed of N-digits that is evenly divisible by M. 
 
 The following statements are always true:
 
@@ -54,8 +54,8 @@ def distance(x1, x2, y1, y2):
 
 ```
 def ndiv(n,m):
-    x=(10**n-1)
-    return x - x % m
+	x=(10**n-1)
+	return x - x % m
 ```
 
 OR 
