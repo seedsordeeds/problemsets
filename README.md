@@ -30,7 +30,7 @@ To test, use the following values:
 * N = 3 ; M = 2
 * N = 5 ; M = 12372
 ```
-The program should return ```998``` and ```98976```.
+The program should return ```998``` and ```98976``` respectively.
 
 # Solution 1: 
 
